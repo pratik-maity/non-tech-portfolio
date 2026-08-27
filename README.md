@@ -4,7 +4,7 @@
 
 A single-page, impact-first portfolio showcasing leadership, campaign execution, and community operations — built for non-technical opportunities.
 
-**Live:** `your-github-pages-link-here`
+**Live:** ` https://pratik-maity.github.io/non-tech-portfolio/ `
 
 ### What it highlights
 - **Leadership at scale:** 50+ volunteers coordinated, 350+ beneficiaries impacted, 100+ contributors managed
@@ -31,10 +31,7 @@ git clone https://github.com/your-username/impact-portfolio.git
 # open index.html or enable Pages in repo settings
 ```
 
-### Update links
-Search for `google.com` → replace with your Writera live link
-Search for `github.com` → replace with your Writera repo link
-Search for `patrick@example.com` → replace with your email
+
 
 ---
 Built with focus on clarity, impact, and execution — not tech stack.
