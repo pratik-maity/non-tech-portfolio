@@ -24,13 +24,14 @@ A single-page, impact-first portfolio showcasing leadership, campaign execution,
 - Google Fonts: Inter
 - Deployed via GitHub Pages
 
+<!--
 ### Setup
 ```bash
 # clone
 git clone https://github.com/your-username/impact-portfolio.git
 # open index.html or enable Pages in repo settings
-```
-
+``` 
+-->
 
 
 ---
